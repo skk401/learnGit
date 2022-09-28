@@ -4,5 +4,6 @@ public class diff {
         int b=3;
         int d=a-b;
         System.out.println(d);
+        System.out.println("kamaal he ho gya hai bhaoi");
     }
 }
